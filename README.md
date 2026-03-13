@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umang Gupta</h1>
 <h3 align="center">Passionate about UI/UX design with Figma and building modern web apps</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umang180905&label=Profile%20views&color=0e75b6&style=flat" alt="umang180905" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umang180905" alt="umang180905" /></a> </p>
 
