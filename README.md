@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umang Gupta</h1>
 <h3 align="center">Passionate about UI/UX design with Figma and building modern web apps</h3>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umang180905" alt="umang180905" /></a> </p>
-
 - 🤝 Let's connect 
 -   📩 Email: **umanggupta1832006@gmail.com**
 -  🌐Linkedin: www.linkedin.com/in/
